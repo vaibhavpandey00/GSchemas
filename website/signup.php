@@ -1,8 +1,8 @@
 <?php
-$username="root";
-$password="";
 $servername="localhost";
-$db_name="tsechack";
+$username="root";
+$password="root";
+$db_name="gscheme";
 
 $conn=mysqli_connect($servername,$username,$password,$db_name);
 
